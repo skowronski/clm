@@ -1,0 +1,90 @@
+/*
+*   PAGE | ABOUT
+*/
+
+.page-about {
+	padding-bottom: 50px;
+	background: url(../images/pages/about/back_about.png) 50% 0 fixed; min-height: 550px;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+
+    h1 {color: @red;}
+    h5 {color: @red;}
+
+    .social-icons { font-size: .6em; font-weight: bold; color: @grayDark; }
+
+    .about-items {
+        .item {
+            position: relative;
+            display: inline-block;
+            color: #fff;
+            overflow: hidden;
+            
+            &:hover .about-overlay {
+                .opacity(95);
+                left: 0;
+                .rotate(360deg);
+            }
+        }
+
+    }
+
+   #quote-slider {
+        margin-bottom: 35px;
+        position: relative;
+   
+        .carousel-indicators {
+            left: 0;
+            right: 0;
+            top: auto;
+            bottom: -8px;
+            text-align: center;
+            
+            li {
+                width: 8px;
+                height: 8px;
+                .border-radius(8px);
+                cursor: pointer;
+                float: none;
+                display: inline-block;
+            }
+        }
+    }
+    
+    .quote {
+        background: url(../images/css/divider_q.png) no-repeat 50% 0;
+        margin-top: 100px;
+        padding-top: 50px;
+    }    
+}
+
+.page-about {
+
+    #quote-slider {
+        margin-bottom: 35px;
+        position: relative;
+   
+        .carousel-indicators {
+            left: 0;
+            right: 0;
+            top: auto;
+            bottom: -8px;
+            text-align: center;
+            
+            li {
+                width: 8px;
+                height: 8px;
+                .border-radius(8px);
+                cursor: pointer;
+                float: none;
+                display: inline-block;
+            }
+        }
+    }
+    
+    .quote {
+        background: url(../images/css/divider_q.png) no-repeat 50% 0;
+        margin-top: 100px;
+        padding-top: 50px;
+    }
+}
