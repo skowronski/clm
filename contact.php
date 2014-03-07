@@ -22,6 +22,7 @@
                     
                     <form role="form" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
 						<input type="text" name="contactname" id="contactname" class="form-control required span12" placeholder="Name" role="input" aria-required="true">
+						<div class="company"><input type="text" name="company" id="company" class="form-control required span12" placeholder="Company Name" role="input"></div>
 						<input type="text" name="email" id="email" class="span12 form-control required email" name="email" placeholder="Email" role="input" aria-required="true">
 						<textarea rows="10" name="message" id="message" class="span12 form-control required" role="textbox" aria-required="true"placeholder="What can we do for you."></textarea>
 						<button type="submit" name="submit" id="submitButton" class="btn btn-primary">Send Message</button>
