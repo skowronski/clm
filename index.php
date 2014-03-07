@@ -1,4 +1,10 @@
 <?php
+if ( $_POST['business'] != '' ) {
+    
+ 	die("You are a bot!"); 
+    
+} else {
+
 //If the form is submitted
 if(isset($_POST['submit'])) {
 
@@ -38,6 +44,7 @@ if(isset($_POST['submit'])) {
 		mail($emailTo, $subject, $body, $headers);
 		$emailSent = true;
 	}
+}
 }
 ?>
 <!DOCTYPE html>
