@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "16828",
+"creatorBuild": "17682",
 "files": {
 	"\/about.php": {
 		"fileType": 8192,
@@ -8,6 +8,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/about.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/analytics.php": {
@@ -16,6 +17,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/analytics.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/images\/css\/cls.png": {
@@ -25,6 +27,7 @@
 		"initialSize": 1301,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/cls.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/cls.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -35,6 +38,7 @@
 		"initialSize": 1502,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/divider.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/divider.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -45,6 +49,7 @@
 		"initialSize": 216,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/divider_more.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/divider_more.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -55,6 +60,7 @@
 		"initialSize": 965,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/divider_more_text.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/divider_more_text.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -65,6 +71,7 @@
 		"initialSize": 1080,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/divider_q.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/divider_q.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -75,6 +82,7 @@
 		"initialSize": 1344,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/divider_tw.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/divider_tw.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -85,6 +93,7 @@
 		"initialSize": 8777,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/glyphicons-halflings-white.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/glyphicons-halflings-white.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -95,6 +104,7 @@
 		"initialSize": 12799,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/glyphicons-halflings.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/glyphicons-halflings.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -105,6 +115,7 @@
 		"initialSize": 4000,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/icon_set.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/icon_set.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -115,6 +126,7 @@
 		"initialSize": 4256,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/icon_set_over.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/icon_set_over.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -125,6 +137,7 @@
 		"initialSize": 199,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/overlay.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/overlay.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -135,6 +148,7 @@
 		"initialSize": 2796,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/pattern.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/pattern.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -145,6 +159,7 @@
 		"initialSize": 2806,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/plugins\/bxslider\/controls.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/plugins\/bxslider\/controls.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -155,6 +170,7 @@
 		"initialSize": 4000,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/sicon-set-white.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/sicon-set-white.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -165,6 +181,7 @@
 		"initialSize": 4259,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/sicon-set.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/sicon-set.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -175,6 +192,7 @@
 		"initialSize": 3830,
 		"inputAbbreviatedPath": "\/assets\/images\/css\/thumb_over.png",
 		"outputAbbreviatedPath": "\/assets\/images\/css\/thumb_over.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -185,6 +203,7 @@
 		"initialSize": 5917,
 		"inputAbbreviatedPath": "\/assets\/images\/ico\/apple-touch-icon-114-precomposed.png",
 		"outputAbbreviatedPath": "\/assets\/images\/ico\/apple-touch-icon-114-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -195,6 +214,7 @@
 		"initialSize": 5108,
 		"inputAbbreviatedPath": "\/assets\/images\/ico\/apple-touch-icon-144-precomposed.png",
 		"outputAbbreviatedPath": "\/assets\/images\/ico\/apple-touch-icon-144-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -205,6 +225,7 @@
 		"initialSize": 3265,
 		"inputAbbreviatedPath": "\/assets\/images\/ico\/apple-touch-icon-57-precomposed.png",
 		"outputAbbreviatedPath": "\/assets\/images\/ico\/apple-touch-icon-57-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -215,6 +236,7 @@
 		"initialSize": 3883,
 		"inputAbbreviatedPath": "\/assets\/images\/ico\/apple-touch-icon-72-precomposed.png",
 		"outputAbbreviatedPath": "\/assets\/images\/ico\/apple-touch-icon-72-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -225,6 +247,7 @@
 		"initialSize": 1556,
 		"inputAbbreviatedPath": "\/assets\/images\/ico\/favicon.png",
 		"outputAbbreviatedPath": "\/assets\/images\/ico\/favicon.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -235,6 +258,7 @@
 		"initialSize": 42330,
 		"inputAbbreviatedPath": "\/assets\/images\/logo.png",
 		"outputAbbreviatedPath": "\/assets\/images\/logo.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -245,6 +269,7 @@
 		"initialSize": 5742,
 		"inputAbbreviatedPath": "\/assets\/images\/logo2.png",
 		"outputAbbreviatedPath": "\/assets\/images\/logo2.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -255,6 +280,7 @@
 		"initialSize": 42301,
 		"inputAbbreviatedPath": "\/assets\/images\/logo_big.png",
 		"outputAbbreviatedPath": "\/assets\/images\/logo_big.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -265,6 +291,7 @@
 		"initialSize": 20248,
 		"inputAbbreviatedPath": "\/assets\/images\/navTexture.png",
 		"outputAbbreviatedPath": "\/assets\/images\/navTexture.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -275,6 +302,7 @@
 		"initialSize": 105730,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/about\/back_about.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/about\/back_about.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -285,6 +313,7 @@
 		"initialSize": 13966,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/about\/headers_about.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/about\/headers_about.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -295,6 +324,7 @@
 		"initialSize": 5286,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -305,6 +335,7 @@
 		"initialSize": 5075,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_10.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_10.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -315,6 +346,7 @@
 		"initialSize": 6875,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_11.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_11.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -325,6 +357,7 @@
 		"initialSize": 4012,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_12.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_12.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -335,6 +368,7 @@
 		"initialSize": 3083,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -345,6 +379,7 @@
 		"initialSize": 5101,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_3.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_3.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -355,6 +390,7 @@
 		"initialSize": 4210,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_4.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_4.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -365,6 +401,7 @@
 		"initialSize": 6914,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_5.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_5.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -375,6 +412,7 @@
 		"initialSize": 6112,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_6.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_6.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -385,6 +423,7 @@
 		"initialSize": 4453,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_7.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_7.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -395,6 +434,7 @@
 		"initialSize": 2927,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_8.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_8.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -405,6 +445,7 @@
 		"initialSize": 5357,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_9.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/clients\/client_9.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -415,6 +456,7 @@
 		"initialSize": 16386,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/contact\/headers_contact.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/contact\/headers_contact.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -425,6 +467,7 @@
 		"initialSize": 78822,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/contact\/map_bck.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/contact\/map_bck.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -435,6 +478,7 @@
 		"initialSize": 48547,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/contact\/work-back.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/contact\/work-back.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -445,6 +489,7 @@
 		"initialSize": 18506,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/services\/headers_services.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/services\/headers_services.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -455,6 +500,7 @@
 		"initialSize": 122649,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/services\/q_bck.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/services\/q_bck.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -465,6 +511,7 @@
 		"initialSize": 6140,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_banners.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_banners.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -475,6 +522,7 @@
 		"initialSize": 4821,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_code.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_code.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -485,6 +533,7 @@
 		"initialSize": 5300,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_email.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_email.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -495,6 +544,7 @@
 		"initialSize": 2198,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_responsive.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_responsive.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -505,6 +555,7 @@
 		"initialSize": 4516,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_wireframe.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_wireframe.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -515,6 +566,7 @@
 		"initialSize": 6486,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_wp.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/services\/services_wp.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -525,6 +577,7 @@
 		"initialSize": 94598,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/twitter\/tw_bck.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/twitter\/tw_bck.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -535,6 +588,7 @@
 		"initialSize": 8844,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/welcome\/logo2_welcome.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/welcome\/logo2_welcome.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -545,6 +599,7 @@
 		"initialSize": 9468,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/welcome\/scrolltosee.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/welcome\/scrolltosee.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -555,6 +610,7 @@
 		"initialSize": 58997,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/welcome\/welcome.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/welcome\/welcome.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -565,6 +621,7 @@
 		"initialSize": 29561,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/ad_t_findwho.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/ad_t_findwho.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -575,6 +632,7 @@
 		"initialSize": 34315,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/ad_t_matchpink.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/ad_t_matchpink.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -585,6 +643,7 @@
 		"initialSize": 31379,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/ad_t_newyear.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/ad_t_newyear.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -595,6 +654,7 @@
 		"initialSize": 27797,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/ad_t_orangeday.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/ad_t_orangeday.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -605,6 +665,7 @@
 		"initialSize": 23692,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/ad_t_perfectmatch.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/ad_t_perfectmatch.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -615,6 +676,7 @@
 		"initialSize": 54076,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Ads_findwho.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Ads_findwho.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -625,6 +687,7 @@
 		"initialSize": 62863,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Ads_matchpink.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Ads_matchpink.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -635,6 +698,7 @@
 		"initialSize": 60407,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Ads_newyear.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Ads_newyear.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -645,6 +709,7 @@
 		"initialSize": 48051,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Ads_orangeday.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Ads_orangeday.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -655,6 +720,7 @@
 		"initialSize": 48524,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Ads_perfectmatch.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Ads_perfectmatch.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -665,6 +731,7 @@
 		"initialSize": 15556,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/headers_work.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/headers_work.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -675,6 +742,7 @@
 		"initialSize": 44481,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Id_plt.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Id_plt.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -685,6 +753,7 @@
 		"initialSize": 58817,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Id_pmb.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Id_pmb.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -695,6 +764,7 @@
 		"initialSize": 12790,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/id_t_plt.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/id_t_plt.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -705,6 +775,7 @@
 		"initialSize": 26101,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/id_t_pmb.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/id_t_pmb.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -715,6 +786,7 @@
 		"initialSize": 89938,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_1kb.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_1kb.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -725,6 +797,7 @@
 		"initialSize": 98776,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_daily5.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_daily5.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -735,6 +808,7 @@
 		"initialSize": 133783,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_dia.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_dia.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -745,6 +819,7 @@
 		"initialSize": 93197,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_give.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_give.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -755,6 +830,7 @@
 		"initialSize": 102071,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_msnit.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_msnit.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -765,6 +841,7 @@
 		"initialSize": 32342,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_1kb.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_1kb.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -775,6 +852,7 @@
 		"initialSize": 32805,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_daily5.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_daily5.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -785,6 +863,7 @@
 		"initialSize": 41432,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_dia.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_dia.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -795,6 +874,7 @@
 		"initialSize": 31199,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_give.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_give.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -805,6 +885,7 @@
 		"initialSize": 36965,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_msnit.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_msnit.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -815,6 +896,7 @@
 		"initialSize": 35175,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_terra.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_terra.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -825,6 +907,7 @@
 		"initialSize": 44456,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_upload.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_upload.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -835,6 +918,7 @@
 		"initialSize": 34558,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_vday.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/landing_t_vday.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -845,6 +929,7 @@
 		"initialSize": 100016,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_terra.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_terra.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -855,6 +940,7 @@
 		"initialSize": 137444,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_upload.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_upload.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -865,6 +951,7 @@
 		"initialSize": 94019,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_vday.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Landing_vday.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -875,6 +962,7 @@
 		"initialSize": 117376,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Print_hdv1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Print_hdv1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -885,6 +973,7 @@
 		"initialSize": 98214,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Print_mrk.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Print_mrk.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -895,6 +984,7 @@
 		"initialSize": 35732,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/print_t_hdv1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/print_t_hdv1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -905,6 +995,7 @@
 		"initialSize": 25191,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/print_t_mrk.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/print_t_mrk.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -915,6 +1006,7 @@
 		"initialSize": 47723,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_1814-1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_1814-1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -925,6 +1017,7 @@
 		"initialSize": 83992,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_1814-2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_1814-2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -935,6 +1028,7 @@
 		"initialSize": 75224,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_1814-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_1814-3.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -945,6 +1039,7 @@
 		"initialSize": 129052,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_1kb1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_1kb1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -955,6 +1050,18 @@
 		"initialSize": 90680,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_1kb2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_1kb2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/pages\/work\/Web_ba.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116183,
+		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_ba.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_ba.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -965,6 +1072,7 @@
 		"initialSize": 118345,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_bagcorp-1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_bagcorp-1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -975,6 +1083,7 @@
 		"initialSize": 93073,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_bagcorp-2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_bagcorp-2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -985,6 +1094,7 @@
 		"initialSize": 120148,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_bagcorp-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_bagcorp-3.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -995,6 +1105,7 @@
 		"initialSize": 116517,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_duke-1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_duke-1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1005,6 +1116,7 @@
 		"initialSize": 119733,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_duke-2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_duke-2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1015,6 +1127,7 @@
 		"initialSize": 182266,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_hdv1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_hdv1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1025,6 +1138,7 @@
 		"initialSize": 138058,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_hdv2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_hdv2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1035,6 +1149,7 @@
 		"initialSize": 101306,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_hdv3.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_hdv3.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1045,6 +1160,7 @@
 		"initialSize": 136321,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_lawtalk-1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_lawtalk-1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1055,6 +1171,7 @@
 		"initialSize": 111739,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_lawtalk-2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_lawtalk-2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1065,6 +1182,7 @@
 		"initialSize": 118848,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_lawtalk-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_lawtalk-3.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1075,6 +1193,7 @@
 		"initialSize": 120331,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_mrk-1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_mrk-1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1085,6 +1204,7 @@
 		"initialSize": 108747,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_mrk-2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_mrk-2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1095,6 +1215,7 @@
 		"initialSize": 92639,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_mrk-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_mrk-3.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1105,6 +1226,7 @@
 		"initialSize": 81703,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_onset-1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_onset-1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1115,6 +1237,7 @@
 		"initialSize": 53937,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_onset-2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_onset-2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1125,6 +1248,7 @@
 		"initialSize": 71329,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_onset-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_onset-3.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1135,6 +1259,7 @@
 		"initialSize": 153075,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_perfect-1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_perfect-1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1145,6 +1270,18 @@
 		"initialSize": 125516,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_perfect-2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_perfect-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/pages\/work\/Web_roomkey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100371,
+		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_roomkey.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_roomkey.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1155,6 +1292,7 @@
 		"initialSize": 14930,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_1814.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_1814.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1165,6 +1303,18 @@
 		"initialSize": 44011,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_1kb.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_1kb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/pages\/work\/web_t_ba.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38017,
+		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_ba.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_ba.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1175,6 +1325,7 @@
 		"initialSize": 38008,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_bagcorp.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_bagcorp.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1185,6 +1336,7 @@
 		"initialSize": 33289,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_duke.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_duke.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1195,6 +1347,7 @@
 		"initialSize": 32616,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_hdv.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_hdv.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1205,6 +1358,7 @@
 		"initialSize": 39431,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_lawtalk.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_lawtalk.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1215,6 +1369,7 @@
 		"initialSize": 35281,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_mrk.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_mrk.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1225,6 +1380,7 @@
 		"initialSize": 27253,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_onset.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_onset.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1235,6 +1391,18 @@
 		"initialSize": 45854,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_perfect.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_perfect.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/pages\/work\/web_t_roomkey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32194,
+		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_roomkey.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_roomkey.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1245,6 +1413,7 @@
 		"initialSize": 25564,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_tha.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_tha.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1255,6 +1424,18 @@
 		"initialSize": 35301,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_turntxb.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_turntxb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/pages\/work\/web_t_virgin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39154,
+		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_virgin.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/web_t_virgin.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1265,6 +1446,7 @@
 		"initialSize": 80964,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_tha-1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_tha-1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1275,6 +1457,7 @@
 		"initialSize": 86074,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_tha-2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_tha-2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1285,6 +1468,7 @@
 		"initialSize": 62292,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_tha-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_tha-3.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1295,6 +1479,7 @@
 		"initialSize": 116732,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_turntxb1.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_turntxb1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1305,6 +1490,7 @@
 		"initialSize": 107547,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_turntxb2.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_turntxb2.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1315,6 +1501,18 @@
 		"initialSize": 119738,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_turntxb3.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_turntxb3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/pages\/work\/Web_virgin1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117169,
+		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_virgin1.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/Web_virgin1.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1325,6 +1523,7 @@
 		"initialSize": 29817,
 		"inputAbbreviatedPath": "\/assets\/images\/pages\/work\/work-back.png",
 		"outputAbbreviatedPath": "\/assets\/images\/pages\/work\/work-back.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1334,6 +1533,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/application\/application-blog-list.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/application\/min\/application-blog-list.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1344,6 +1544,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/application\/application.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/application\/min\/application.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1354,6 +1555,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/application\/source\/application-blog-list.js",
 		"outputAbbreviatedPath": "\/assets\/js\/application\/source\/min\/application-blog-list-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1364,6 +1566,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/application\/source\/application.js",
 		"outputAbbreviatedPath": "\/assets\/js\/application\/source\/min\/application-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1374,6 +1577,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/bootstrap-contact.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/bootstrap-contact-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1384,6 +1588,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/bootstrap.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/bootstrap.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1394,6 +1599,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/html5shiv.js",
 		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/html5shiv-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1404,6 +1610,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/source\/bootstrap.js",
 		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/source\/min\/bootstrap-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1414,6 +1621,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/jquery-1.10.2.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery-1.10.2.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1424,6 +1632,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.bxslider.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.bxslider.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1434,6 +1643,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.centralized.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.centralized.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1444,6 +1654,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.fixedonlater.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.fixedonlater.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1454,6 +1665,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.hashloader.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.hashloader.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1464,6 +1676,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.mixitup.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.mixitup.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1474,6 +1687,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.nav.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.nav.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1484,6 +1698,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.parallax-1.1.3.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.parallax-1.1.3.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1494,6 +1709,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.responsivevideos.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.responsivevideos.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1504,6 +1720,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.scrollTo.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.scrollTo.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1514,6 +1731,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.tweet.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.tweet.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1524,6 +1742,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/jquery.tweetCarousel.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/min\/jquery.tweetCarousel.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1534,6 +1753,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.bxslider.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.bxslider-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1544,6 +1764,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.centralized.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.centralized-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1554,6 +1775,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.fixedonlater.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.fixedonlater-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1564,6 +1786,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.hashloader.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.hashloader-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1574,6 +1797,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.mixitup.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.mixitup-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1584,6 +1808,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.nav.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.nav-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1594,6 +1819,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.parallax-1.1.3.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.parallax-1.1.3-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1604,6 +1830,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.responsivevideos.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.responsivevideos-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1614,6 +1841,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.scrollTo-1.4.3.1.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.scrollTo-1.4.3.1-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1624,6 +1852,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.tweet.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.tweet-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1634,6 +1863,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/plugins\/source\/jquery.tweetCarousel.js",
 		"outputAbbreviatedPath": "\/assets\/js\/plugins\/source\/min\/jquery.tweetCarousel-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1648,6 +1878,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/accordion.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/accordion.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1667,6 +1898,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/alerts.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/alerts.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1686,6 +1918,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/breadcrumbs.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/breadcrumbs.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1705,6 +1938,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/button-groups.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/button-groups.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1724,6 +1958,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/buttons.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/buttons.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1743,6 +1978,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/carousel.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/carousel.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1762,6 +1998,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/close.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/close.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1781,6 +2018,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/code.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/code.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1800,6 +2038,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/component-animations.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/component-animations.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1819,6 +2058,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/dropdowns.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/dropdowns.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1838,6 +2078,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/forms.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/forms.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1857,6 +2098,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/grid.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/grid.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1876,6 +2118,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/hero-unit.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/hero-unit.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1895,6 +2138,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/labels-badges.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/labels-badges.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1914,6 +2158,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/layouts.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/layouts.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1929,6 +2174,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/media.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/style\/bootstrap-2.3.2\/media.less": {
@@ -1941,6 +2187,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/media.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/media.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1960,6 +2207,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/mixins.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/mixins.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1979,6 +2227,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/modals.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/modals.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -1998,6 +2247,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/navbar.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/navbar.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2017,6 +2267,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/navs.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/navs.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2036,6 +2287,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/pager.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/pager.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2055,6 +2307,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/pagination.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/pagination.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2074,6 +2327,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/popovers.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/popovers.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2093,6 +2347,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/progress-bars.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/progress-bars.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2112,6 +2367,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/reset.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/reset.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2131,6 +2387,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-1200px-min.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-1200px-min.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2150,6 +2407,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-767px-max.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-767px-max.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2169,6 +2427,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-768px-979px.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-768px-979px.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2188,6 +2447,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-navbar.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-navbar.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2203,6 +2463,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-utilities.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/style\/bootstrap-2.3.2\/responsive-utilities.less": {
@@ -2215,6 +2476,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-utilities.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/responsive-utilities.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2234,6 +2496,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/scaffolding.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/scaffolding.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2253,6 +2516,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/sprites.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/sprites.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2272,6 +2536,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/tables.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/tables.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2291,6 +2556,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/thumbnails.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/thumbnails.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2310,6 +2576,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/tooltip.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/tooltip.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2329,6 +2596,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/type.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/type.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2348,6 +2616,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/utilities.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/utilities.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2363,6 +2632,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/variables.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/style\/bootstrap-2.3.2\/variables.less": {
@@ -2375,6 +2645,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/variables.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/variables.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2394,6 +2665,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/wells.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap-2.3.2\/wells.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2409,6 +2681,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap-uncompressed.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/style\/bootstrap.css": {
@@ -2417,6 +2690,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/style\/bootstrap.less": {
@@ -2429,6 +2703,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/bootstrap.less",
 		"outputAbbreviatedPath": "\/assets\/style\/bootstrap.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2448,6 +2723,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/elements.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/elements.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2467,6 +2743,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/icon-set.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/icon-set.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2486,6 +2763,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-about.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-about.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2505,6 +2783,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-blog-list.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-blog-list.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2524,6 +2803,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-blog.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-blog.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2539,6 +2819,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-clients.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/style\/theme\/page-clients.less": {
@@ -2551,6 +2832,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-clients.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-clients.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2570,6 +2852,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-contact.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-contact.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2585,6 +2868,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-footer.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/style\/theme\/page-footer.less": {
@@ -2597,6 +2881,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-footer.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-footer.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2616,6 +2901,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-header.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-header.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2635,6 +2921,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-services.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-services.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2654,6 +2941,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-twitter.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-twitter.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2673,6 +2961,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-welcome.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-welcome.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2692,6 +2981,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/page-work.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/page-work.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2707,6 +2997,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/plugins-bxslider.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/style\/theme\/plugins-bxslider.less": {
@@ -2719,6 +3010,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/style\/theme\/plugins-bxslider.less",
 		"outputAbbreviatedPath": "\/assets\/style\/theme\/plugins-bxslider.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"relativeURLS": 0,
@@ -2734,6 +3026,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/clients\/johnsonandsekin\/AMY-120x90.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/clients\/johnsonandsekin\/AMY-160x600.html": {
@@ -2742,6 +3035,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/clients\/johnsonandsekin\/AMY-160x600.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/clients\/johnsonandsekin\/AMY-180x150.html": {
@@ -2750,6 +3044,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/clients\/johnsonandsekin\/AMY-180x150.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/clients\/johnsonandsekin\/AMY-300x250.html": {
@@ -2758,6 +3053,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/clients\/johnsonandsekin\/AMY-300x250.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/clients\/johnsonandsekin\/AMY-336x280.html": {
@@ -2766,6 +3062,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/clients\/johnsonandsekin\/AMY-336x280.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/clients\/johnsonandsekin\/AMY-468x60.html": {
@@ -2774,6 +3071,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/clients\/johnsonandsekin\/AMY-468x60.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/clients\/johnsonandsekin\/AMY-500x500.html": {
@@ -2782,6 +3080,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/clients\/johnsonandsekin\/AMY-500x500.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/clients\/johnsonandsekin\/AMY-728x90.html": {
@@ -2790,6 +3089,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/clients\/johnsonandsekin\/AMY-728x90.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/clients\/johnsonandsekin\/AMY-960x90.html": {
@@ -2798,6 +3098,61 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/clients\/johnsonandsekin\/AMY-960x90.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/clients\/johnsonandsekin\/AMY_500x500_pagepeel.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/clients\/johnsonandsekin\/AMY_500x500_pagepeel.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/clients\/mainevent\/160x600.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/clients\/mainevent\/160x600.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/clients\/mainevent\/300x250.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/clients\/mainevent\/300x250.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/clients\/mainevent\/728x90.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/clients\/mainevent\/728x90.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/clients\/redstone\/DACP_300x250.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/clients\/redstone\/DACP_300x250.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/clients\/redstone\/DACP_728x90.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/clients\/redstone\/DACP_728x90.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/contact.php": {
@@ -2806,6 +3161,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/contact.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/assets\/images\/blog_structure.png": {
@@ -2815,6 +3171,7 @@
 		"initialSize": 10818,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/blog_structure.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/blog_structure.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2825,6 +3182,7 @@
 		"initialSize": 125346,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/bootstrap-mdo-sfmoma-01.jpg",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/bootstrap-mdo-sfmoma-01.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2835,6 +3193,7 @@
 		"initialSize": 81284,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/bootstrap-mdo-sfmoma-02.jpg",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/bootstrap-mdo-sfmoma-02.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2845,6 +3204,7 @@
 		"initialSize": 49063,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/bootstrap-mdo-sfmoma-03.jpg",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/bootstrap-mdo-sfmoma-03.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2855,6 +3215,7 @@
 		"initialSize": 273,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/cls.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/cls.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2865,6 +3226,7 @@
 		"initialSize": 410,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/divider.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/divider.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2875,6 +3237,7 @@
 		"initialSize": 216,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/divider_more.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/divider_more.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2885,6 +3248,7 @@
 		"initialSize": 965,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/divider_more_text.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/divider_more_text.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2895,6 +3259,7 @@
 		"initialSize": 1080,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/divider_q.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/divider_q.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2905,6 +3270,7 @@
 		"initialSize": 1344,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/divider_tw.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/divider_tw.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2915,6 +3281,7 @@
 		"initialSize": 8777,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/glyphicons-halflings-white.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/glyphicons-halflings-white.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2925,6 +3292,7 @@
 		"initialSize": 12799,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/glyphicons-halflings.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/glyphicons-halflings.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2935,6 +3303,7 @@
 		"initialSize": 3100,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/icon_set.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/icon_set.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2945,6 +3314,7 @@
 		"initialSize": 3237,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/icon_set_over.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/icon_set_over.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2955,6 +3325,7 @@
 		"initialSize": 199,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/overlay.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/overlay.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2965,6 +3336,7 @@
 		"initialSize": 2796,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/pattern.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/pattern.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2975,6 +3347,7 @@
 		"initialSize": 2806,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/plugins\/bxslider\/controls.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/plugins\/bxslider\/controls.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2985,6 +3358,7 @@
 		"initialSize": 3100,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/sicon-set-white.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/sicon-set-white.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2995,6 +3369,7 @@
 		"initialSize": 3237,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/sicon-set.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/sicon-set.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -3005,6 +3380,7 @@
 		"initialSize": 1281,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/css\/thumb_over.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/css\/thumb_over.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -3015,6 +3391,7 @@
 		"initialSize": 609,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/ico\/apple-touch-icon-114-precomposed.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/ico\/apple-touch-icon-114-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -3025,6 +3402,7 @@
 		"initialSize": 702,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/ico\/apple-touch-icon-144-precomposed.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/ico\/apple-touch-icon-144-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -3035,6 +3413,7 @@
 		"initialSize": 361,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/ico\/apple-touch-icon-57-precomposed.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/ico\/apple-touch-icon-57-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -3045,6 +3424,7 @@
 		"initialSize": 466,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/ico\/apple-touch-icon-72-precomposed.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/ico\/apple-touch-icon-72-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -3055,6 +3435,7 @@
 		"initialSize": 302,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/ico\/favicon.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/ico\/favicon.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -3065,6 +3446,7 @@
 		"initialSize": 993,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/logo.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/logo.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -3075,6 +3457,7 @@
 		"initialSize": 30309,
 		"inputAbbreviatedPath": "\/documentation\/assets\/images\/page_strucutre.png",
 		"outputAbbreviatedPath": "\/documentation\/assets\/images\/page_strucutre.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -3084,6 +3467,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/assets\/js\/application.js",
 		"outputAbbreviatedPath": "\/documentation\/assets\/js\/min\/application-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -3094,6 +3478,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/assets\/js\/bootstrap.min.js",
 		"outputAbbreviatedPath": "\/documentation\/assets\/js\/min\/bootstrap.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -3104,6 +3489,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/assets\/js\/html5shiv.js",
 		"outputAbbreviatedPath": "\/documentation\/assets\/js\/min\/html5shiv-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -3114,6 +3500,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/assets\/js\/jquery-1.10.2.min.js",
 		"outputAbbreviatedPath": "\/documentation\/assets\/js\/min\/jquery-1.10.2.min-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -3124,6 +3511,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/assets\/js\/plugins\/jquery.centralized.js",
 		"outputAbbreviatedPath": "\/documentation\/assets\/js\/plugins\/min\/jquery.centralized-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -3134,6 +3522,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/assets\/js\/prettify.js",
 		"outputAbbreviatedPath": "\/documentation\/assets\/js\/min\/prettify-ck.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -3144,6 +3533,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/assets\/style\/bootstrap.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/assets\/style\/docs.css": {
@@ -3152,6 +3542,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/assets\/style\/docs.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/assets\/style\/prettify.css": {
@@ -3160,6 +3551,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/assets\/style\/prettify.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/base_css.html": {
@@ -3168,6 +3560,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/base_css.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/components.html": {
@@ -3176,6 +3569,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/components.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/design.html": {
@@ -3184,6 +3578,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/design.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/index.html": {
@@ -3192,6 +3587,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/licences.html": {
@@ -3200,6 +3596,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/licences.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/plugins.html": {
@@ -3208,6 +3605,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/plugins.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/scaffolding.html": {
@@ -3216,6 +3614,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/scaffolding.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/documentation\/support.html": {
@@ -3224,6 +3623,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/documentation\/support.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/footer.php": {
@@ -3232,6 +3632,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/footer.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/index.php": {
@@ -3240,6 +3641,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/blog\/blog.html": {
@@ -3248,6 +3650,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/blog\/blog.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/blog\/blog_1.html": {
@@ -3256,6 +3659,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/blog\/blog_1.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/blog\/blog_2.html": {
@@ -3264,6 +3668,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/blog\/blog_2.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/blog\/blog_3.html": {
@@ -3272,6 +3677,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/blog\/blog_3.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/blog\/blog_4.html": {
@@ -3280,6 +3686,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/blog\/blog_4.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/blog\/blog_5.html": {
@@ -3288,6 +3695,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/blog\/blog_5.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/blog\/blog_6.html": {
@@ -3296,6 +3704,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/blog\/blog_6.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_1.html": {
@@ -3304,6 +3713,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_1.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_10.html": {
@@ -3312,6 +3722,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_10.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_11.html": {
@@ -3320,6 +3731,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_11.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_12.html": {
@@ -3328,6 +3740,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_12.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_13.html": {
@@ -3336,6 +3749,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_13.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_14.html": {
@@ -3344,6 +3758,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_14.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_15.html": {
@@ -3352,6 +3767,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_15.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_16.html": {
@@ -3360,6 +3776,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_16.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_17.html": {
@@ -3368,6 +3785,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_17.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_18.html": {
@@ -3376,6 +3794,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_18.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_19.html": {
@@ -3384,6 +3803,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_19.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_2.html": {
@@ -3392,6 +3812,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_2.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_20.html": {
@@ -3400,6 +3821,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_20.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_21.html": {
@@ -3408,6 +3830,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_21.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_22.html": {
@@ -3416,6 +3839,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_22.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_23.html": {
@@ -3424,6 +3848,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_23.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_24.html": {
@@ -3432,6 +3857,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_24.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_25.html": {
@@ -3440,6 +3866,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_25.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_26.html": {
@@ -3448,6 +3875,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_26.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_27.html": {
@@ -3456,6 +3884,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_27.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_28.html": {
@@ -3464,6 +3893,16 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_28.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/pages\/portfolio\/project_29.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pages\/portfolio\/project_29.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_3.html": {
@@ -3472,6 +3911,25 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_3.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/pages\/portfolio\/project_30.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pages\/portfolio\/project_30.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/pages\/portfolio\/project_31.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pages\/portfolio\/project_31.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_4.html": {
@@ -3480,6 +3938,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_4.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_5.html": {
@@ -3488,6 +3947,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_5.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_6.html": {
@@ -3496,6 +3956,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_6.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_7.html": {
@@ -3504,6 +3965,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_7.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_8.html": {
@@ -3512,6 +3974,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_8.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/project_9.html": {
@@ -3520,6 +3983,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/project_9.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/portfolio\/readmore.html": {
@@ -3528,6 +3992,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/portfolio\/readmore.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/plugins\/twitter\/index.php": {
@@ -3536,6 +4001,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/plugins\/twitter\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/plugins\/twitter\/lib\/tmhOAuth.php": {
@@ -3544,6 +4010,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/plugins\/twitter\/lib\/tmhOAuth.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/plugins\/twitter\/lib\/tmhUtilities.php": {
@@ -3552,6 +4019,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/plugins\/twitter\/lib\/tmhUtilities.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/services.php": {
@@ -3560,6 +4028,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/services.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/welcome.php": {
@@ -3568,6 +4037,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/welcome.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/work.php": {
@@ -3576,6 +4046,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/work.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/y_key_6ba5807562858ae6.html": {
@@ -3584,6 +4055,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/y_key_6ba5807562858ae6.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		}
 	},
@@ -3605,6 +4077,8 @@
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
 	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
 	"coffeeAutoOutputPathRelativePath": "",
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
@@ -3655,12 +4129,16 @@
 			"active": 0,
 			"flagValue": 3
 			},
-		"no-unnecessary_fat_arrows": {
+		"no_backticks": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"no_backticks": {
+		"no_debugger": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_empty_param_list": {
@@ -3672,6 +4150,10 @@
 			"flagValue": -1
 			},
 		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3699,6 +4181,14 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"non_empty_constructor_needs_parens": {
 			"active": 0,
 			"flagValue": -1
@@ -3714,6 +4204,8 @@
 	"externalServerAddress": "http:\/\/localhost:8888",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
 	"hamlAutoOutputPathRelativePath": "",
 	"hamlAutoOutputPathReplace1": "",
 	"hamlAutoOutputPathReplace2": "",
@@ -3725,19 +4217,22 @@
 	"hamlUseCDATA": 0,
 	"hamlUseDoubleQuotes": 0,
 	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
 	"jadeAutoOutputPathRelativePath": "",
 	"jadeAutoOutputPathReplace1": "",
 	"jadeAutoOutputPathReplace2": "",
 	"jadeAutoOutputPathStyle": 0,
 	"jadeCompileDebug": 1,
 	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
 	"javascriptAutoOutputPathRelativePath": "\/min",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 2,
 	"javascriptCreateSourceMap": 1,
 	"javascriptOutputStyle": 1,
-	"javascriptOutputSuffix": "-ck",
 	"javascriptSyntaxCheckerStyle": 1,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
@@ -3814,10 +4309,6 @@
 			"flagValue": -1
 			},
 		"funcscope": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"gcl": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3933,10 +4424,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"onevar": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"phantom": {
 			"active": 0,
 			"flagValue": -1
@@ -3973,10 +4460,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"smarttabs": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"strict": {
 			"active": 0,
 			"flagValue": -1
@@ -3989,10 +4472,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"trailing": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"typed": {
 			"active": 0,
 			"flagValue": -1
@@ -4003,10 +4482,6 @@
 			},
 		"unused": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"white": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"withstmt": {
@@ -4132,11 +4607,15 @@
 			"flagValue": -1
 			}
 		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
 	"kitAutoOutputPathStyle": 0,
 	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
 	"lessAutoOutputPathRelativePath": "..\/css",
 	"lessAutoOutputPathReplace1": "less",
 	"lessAutoOutputPathReplace2": "css",
@@ -4149,6 +4628,8 @@
 	"lessStrictImports": 0,
 	"lessStrictMath": 0,
 	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
 	"markdownAutoOutputPathRelativePath": "",
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
@@ -4157,10 +4638,12 @@
 	"markdownEnableSmartyPants": 1,
 	"markdownExpandTabs": 1,
 	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
 	"sassAutoOutputPathRelativePath": "..\/css",
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
-	"sassAutoOutputPathStyle": 2,
+	"sassAutoOutputPathStyle": 0,
 	"sassCreateSourceMap": 0,
 	"sassDebugStyle": 0,
 	"sassDecimalPrecision": 5,
@@ -4169,6 +4652,8 @@
 	"shouldRunAutoprefixer": 0,
 	"shouldRunBless": 0,
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
@@ -4177,6 +4662,8 @@
 	"slimLogicless": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
 	"stylusAutoOutputPathRelativePath": "..\/css",
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
@@ -4185,6 +4672,8 @@
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,
 	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
 	"typescriptAutoOutputPathRelativePath": "\/js",
 	"typescriptAutoOutputPathReplace1": "",
 	"typescriptAutoOutputPathReplace2": "",

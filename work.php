@@ -52,6 +52,31 @@
             <article>
                 <ul class="thumbnails plugin-filter-elements portfolio-items">
                     <li class="span4 mix web-design mix_all">
+                        <a href="#pages/portfolio/project_29.html" data-destination="portfolio-items" data-insert="before">
+                            <img src="assets/images/pages/work/web_t_roomkey.jpg" alt="Roomkey.com Homepage Redesign">
+                            <div class="portfolio-overlay">
+                                <h4>Roomkey.com homepage re-design</h4>
+                            </div>
+                        </a>
+                    </li>
+					<li class="span4 mix web-design mix_all">
+                        <a href="#pages/portfolio/project_30.html" data-destination="portfolio-items" data-insert="before">
+                            <img src="assets/images/pages/work/web_t_virgin.jpg" alt="Vigin America Hotels">
+                            <div class="portfolio-overlay">
+                                <h4>Virgin America Hotels</h4>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="span4 mix web-design mix_all">
+                        <a href="#pages/portfolio/project_31.html" data-destination="portfolio-items" data-insert="before">
+                            <img src="assets/images/pages/work/web_t_ba.jpg" alt="British Airways Hotels">
+                            <div class="portfolio-overlay">
+                                <h4>British Airways Hotels</h4>
+                            </div>
+                        </a>
+                    </li>
+                    
+                    <li class="span4 mix web-design mix_all">
                         <a href="#pages/portfolio/project_1.html" data-destination="portfolio-items" data-insert="before">
                             <img src="assets/images/pages/work/web_t_perfect.jpg" alt="The Perfect Last Bite">
                             <div class="portfolio-overlay">
@@ -289,7 +314,7 @@
             <!-- Client logos -->
             <div class="row-fluid">
                 <div class="span2 center">
-                    <img src="assets/images/pages/clients/client_7.jpg" alt="Avrea Foster">
+                    <img src="assets/images/pages/clients/client_7.jpg" alt="Room Key">
                 </div>
                 <div class="span2 center">
                     <img src="assets/images/pages/clients/client_8.jpg" alt="Johnson & Sekin">
